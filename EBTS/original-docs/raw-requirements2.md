@@ -13,9 +13,17 @@ This section focuses on generic field records and various different field types 
 ## RISKS AND RECOMMENDATIONS:
 
 **Data Hiding:** Unknown, deprecated, or unused record/field numbers could be ignored by applications. Fields with invalid character types may be an attempt to hide data within EBTS data.
+
 1. Validate: Check that each record and field number for any record is valid from one of the EBTS specifications.
 2. Remove: Remove any deprecated fields in the EBTS file.
 3. Validate: Check that the remainder of the field contents aligns with a character type as denoted by the appropriate standard.
 4. Validate: If the field content has a type or format (such as a date), check that the field adheres to the correct format.
 5. Validate: If the field specifies a minimum and/or maximum value, verify that the value meets that criteria.
 
+## RISKS AND RECOMMENDATIONS
+
+**Data Hiding:** A MPEG-2 TS consisting of multiple programs could contain hidden data in false programs (programs that are not officially defined in the PAT). The data could then be extracted using a custom application by accessing data in programs that are not formally defined by the transport stream.
+
+1. Validate: Identify the number of programs by locating the PMT for each program listed in the PAT.
+2. Remove: Remove all programs or PIDs in the MPEG-2 TS that are not listed in the Program Association Table (PAT) (and PMT) of the MPEG-2 TS.
+3. Review: Present the list of programs and associated elementary streams to a human for review.
