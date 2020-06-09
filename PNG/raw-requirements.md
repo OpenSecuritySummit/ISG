@@ -58,12 +58,9 @@ problems for applications.
 
 
 
-PRODUCT
-PNG (Portable Network Graphics) Specification, Version 1.2
-LOCATION
-Chunks are found immediately after the PNG file signature.
-4.2.2 Chunk Order
-OVERVIEW
+
+#### 4.2.2 Chunk Order
+
 PNG Chunks should follow the PNG file signature and be formatted according to the
 specifications. Chunks can appear in any order with the exception of two chunks: IHDR
 and IEND. IHDR should be the first chunk and IEND should be the last chunk.
