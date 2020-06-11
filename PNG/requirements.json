@@ -1,14 +1,18 @@
 {
     "file-type" : "PNG",
     "Source": "https://apps.nsa.gov/iaarchive/library/reports/inspection_and_sanitization_guidance_for_png.cfm",
+    "CVE": [] ,
     "Recommendations" : {
         "4.1 PNG Signature" :{
             "Description" : "The PNG Signature constitutes the first eight bytes of every PNG file",
+           "CVE": [] ,
             "Actions" :{
                 "Data Attack " :{
                     "4.1.1" : { "Type:" : "Validate" ,
                                 "Action" : "The first eight bytes are equivalent to: 0x89, 0x50 (‘P’), 0x43 (‘N’), 0x47 (‘G’), 0x0d, 0x0a, 0x1a, and 0x0a.",
-                                "Reference": "... where in spec this is mentioned..."},
+                                "Reference": "... where in spec this is mentioned..." , 
+                                "CVE": []},
+
                      "4.1.2" : { "Type" : "Reject" ,
                                  "Action": "Files that do not conform to the specification requirements."}        
                 }
