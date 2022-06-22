@@ -28,11 +28,11 @@
 [![CDR Roundtable How to Collaborate and Increase Adoption Jun 18 by Dinis Cruz](https://img.youtube.com/vi/_y86a7N2r0U/0.jpg)](https://www.youtube.com/watch?v=_y86a7N2r0U)
 [![Create common sets of files for CDR Testing and QA 18 Jun by Matt Green and Greg Mann](https://img.youtube.com/vi/veRermhCn3k/0.jpg)](https://www.youtube.com/watch?v=veRermhCn3k)
 [![Securely Handling Fonts in PDFs - Part 1 by Elvin White](https://img.youtube.com/vi/u_Snj_z85kU/0.jpg)](https://www.youtube.com/watch?v=u_Snj_z85kU)
+[![CDR Engine Standard by Paul Burke](https://img.youtube.com/vi/g5toOjFu5IM/0.jpg)](https://www.youtube.com/watch?v=g5toOjFu5IM)
+[![CDR Engine Standard (Part 2)](https://img.youtube.com/vi/g0fPSS9VPgw/0.jpg)](https://www.youtube.com/watch?v=g0fPSS9VPgw)
+[![CDR Definition from Experts Point of View](https://img.youtube.com/vi/d4MDiAGi5OQ/0.jpg)](https://www.youtube.com/watch?v=d4MDiAGi5OQ)
+<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)-->
 
 
