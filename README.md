@@ -22,7 +22,7 @@
 ### What security exploits are prevented by implementing ISGs - 11 Jun
 [![What security exploits are prevented by implementing ISGs?](https://img.youtube.com/vi/ZI5X-oDnO8I/0.jpg)](https://www.youtube.com/watch?v=ZI5X-oDnO8I)
 
-### Bakeoff - Anti-virus vs CDR vs Sandboxing
+### Bakeoff - Anti-virus vs CDR vs Sandboxing 18th Jun by Paul Burke
 [![Bakeoff - Anti-virus vs CDR vs Sandboxing](https://img.youtube.com/vi/I0esii6BrQ4/0.jpg)](https://www.youtube.com/watch?v=I0esii6BrQ4)
 
 ### CDR API Standard
