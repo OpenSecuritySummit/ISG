@@ -19,7 +19,7 @@
 ### How to measure and visualise ISG standards - 10 Jun
 [![How to measure and visualise ISG standards](https://img.youtube.com/vi/PGZCHxwZ82c/0.jpg)](https://www.youtube.com/watch?v=PGZCHxwZ82c)
 
-### What security exploits are prevented by implementing ISGs?
+### What security exploits are prevented by implementing ISGs - 11 Jun
 [![What security exploits are prevented by implementing ISGs?](https://img.youtube.com/vi/ZI5X-oDnO8I/0.jpg)](https://www.youtube.com/watch?v=ZI5X-oDnO8I)
 
 ### Bakeoff - Anti-virus vs CDR vs Sandboxing
