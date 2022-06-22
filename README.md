@@ -13,7 +13,7 @@
 ### ISG: What it is and How it Works
 [![ISG: What it is and How it Works](https://img.youtube.com/vi/aS2APZM7OLs/0.jpg)](https://www.youtube.com/watch?v=aS2APZM7OLs)
 
-### What are ISGs and how to convert ISGs into checklists?
+### What are ISGs and how to convert ISGs into checklists? - 9 Jun by Elvin White & Dinis Cruz
 [![What are ISGs and how to convert ISGs into checklists?](https://img.youtube.com/vi/_2lSfuVOvPA/0.jpg)](https://www.youtube.com/watch?v=_2lSfuVOvPA)
 
 ### How to measure and visualise ISG standards
