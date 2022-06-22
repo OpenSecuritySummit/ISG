@@ -16,7 +16,7 @@
 ### What are ISGs and how to convert ISGs into checklists? - 9 Jun by Elvin White & Dinis Cruz
 [![What are ISGs and how to convert ISGs into checklists?](https://img.youtube.com/vi/_2lSfuVOvPA/0.jpg)](https://www.youtube.com/watch?v=_2lSfuVOvPA)
 
-### How to measure and visualise ISG standards
+### How to measure and visualise ISG standards - 10 Jun
 [![How to measure and visualise ISG standards](https://img.youtube.com/vi/PGZCHxwZ82c/0.jpg)](https://www.youtube.com/watch?v=PGZCHxwZ82c)
 
 ### What security exploits are prevented by implementing ISGs?
