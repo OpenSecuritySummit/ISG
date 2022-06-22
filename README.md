@@ -10,4 +10,4 @@
 
 ## Open Security Summit Presentations
 
-- [![ISG: What it is and How it Works](https://www.youtube.com/watch?v=aS2APZM7OLs)](https://www.youtube.com/watch?v=aS2APZM7OLs)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/aS2APZM7OLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
